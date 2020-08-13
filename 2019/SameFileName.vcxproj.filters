@@ -17,21 +17,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="source\impl\Hello.cpp">
+    <ClCompile Include="..\source\impl\Hello.cpp">
       <Filter>source\impl</Filter>
     </ClCompile>
-    <ClCompile Include="source\Hello.cpp">
+    <ClCompile Include="..\source\Hello.cpp">
       <Filter>source</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="..\main.cpp">
       <Filter>main</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="source\impl\Hello.h">
+    <ClInclude Include="..\source\impl\Hello.h">
       <Filter>source\impl</Filter>
     </ClInclude>
-    <ClInclude Include="include\Hello.h">
+    <ClInclude Include="..\include\Hello.h">
       <Filter>include</Filter>
     </ClInclude>
   </ItemGroup>
